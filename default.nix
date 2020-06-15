@@ -31,7 +31,3 @@ symlinkJoin rec {
     maintainers = with maintainers; [ mrVanDalo ];
   };
 }
-
-
-
-
